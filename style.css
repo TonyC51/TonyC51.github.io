@@ -1,0 +1,52 @@
+body {
+	text-align:center;
+	background-image: url("https://images.homedepot-static.com/productImages/872e27bc-7430-4c07-a374-e5640c7f811e/svn/chesapeake-wallpaper-has01341sam-64_1000.jpg");
+	background-repeat: round;
+}
+
+
+h1 {
+	margin-bottom: 10%;
+	margin-top: 5%;
+  	text-shadow: 2px 2px grey;
+	color: #007bff;
+}
+
+.progress {
+	margin-bottom: 8%;
+}
+
+#travaux {
+	margin-top: 10%;
+	background-image:none;
+}
+
+strong {
+	color: #007bff;
+}
+
+.row{
+  display:flex;
+  align-items:center;
+}
+
+h2 {
+	color: #007bff;	
+	margin-bottom: 5%;
+}
+
+footer {
+	margin-top: 10%;
+	background-color: #007bff;
+	color: white;
+	border-radius: 25px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+p {
+	font-family: Georgia, serif;
+}

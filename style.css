@@ -1,6 +1,7 @@
 body {
 	text-align:center;
-	background-image: url("https://www.freepik.com/free-vector/white-background-in-abstract-style_2067009.htm'>Designed by Freepik");
+	background-image: url("https://raw.githubusercontent.com/TonyC51/TonyC51.github.io/master/272335-P6AJ3E-426.jpg");
+	background-size: 140%;
 }
 
 
@@ -8,7 +9,7 @@ h1 {
 	margin-bottom: 2%;
 	margin-top: 5%;
   	text-shadow: 1px 1px grey;
-	color: white;
+	color: #007bff;
 }
 
 strong {
@@ -37,9 +38,6 @@ p {
 	font-family: Georgia, serif;
 }
 
-.container {
-	background-color: white;
-}
 
 #image-tony {
 	margin-top: 4%;
